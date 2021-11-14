@@ -623,7 +623,7 @@ https://github.com/apache/opennlp,8209cd308ee6ff7e61ec0346f1799a32541ed80f,openn
 https://github.com/apache/opennlp,8209cd308ee6ff7e61ec0346f1799a32541ed80f,opennlp-tools,opennlp.tools.languagemodel.NgramLanguageModelTest.testNgramModel,ID,Accepted,https://github.com/apache/opennlp/pull/387,
 https://github.com/apache/opennlp,8209cd308ee6ff7e61ec0346f1799a32541ed80f,opennlp-tools,opennlp.tools.languagemodel.NgramLanguageModelTest.testTrigram,ID,Accepted,https://github.com/apache/opennlp/pull/387,
 https://github.com/apache/opennlp,8209cd308ee6ff7e61ec0346f1799a32541ed80f,opennlp-tools,opennlp.tools.ml.naivebayes.NaiveBayesSerializedCorrectnessTest.testPlainTextModel,ID,Accepted,https://github.com/apache/opennlp/pull/387,
-https://github.com/apache/pdfbox,499844caf33c2743b373b34b7a781ec2d65b0660,.,org.apache.pdfbox.pdfparser.PDFObjectStreamParserTest.testOffsetParsing,ID,,,
+https://github.com/apache/pdfbox,499844caf33c2743b373b34b7a781ec2d65b0660,.,org.apache.pdfbox.pdfparser.PDFObjectStreamParserTest.testOffsetParsing,ID,Opened,https://github.com/apache/pdfbox/pull/136,
 https://github.com/apache/pulsar,505e08a76425c6e49ff5bc691f8ca7587184a2bf,pulsar-client,org.apache.pulsar.client.impl.schema.AvroSchemaTest.testAllowNullSchema,ID,Accepted,https://github.com/apache/pulsar/pull/6247,
 https://github.com/apache/pulsar,505e08a76425c6e49ff5bc691f8ca7587184a2bf,pulsar-client,org.apache.pulsar.client.impl.schema.AvroSchemaTest.testNotAllowNullSchema,ID,Accepted,https://github.com/apache/pulsar/pull/6247,
 https://github.com/apache/pulsar,505e08a76425c6e49ff5bc691f8ca7587184a2bf,pulsar-client,org.apache.pulsar.client.impl.schema.JSONSchemaTest.testAllowNullSchema,ID,Accepted,https://github.com/apache/pulsar/pull/6435,
